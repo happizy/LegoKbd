@@ -1,4 +1,7 @@
 # LegoKbd
+
+https://github.com/happizy/LegoKbd/assets/61943115/56a38247-d9cf-49f5-ad8f-5a3ccf177c58
+
 ### the companion for LEGO + keyboard enjoyers
 LegoKbd is a simple Windows application that plays old school lego games building sounds whenever a key is pressed on the keyboard. It runs silently in the background, with no visible user interface.
 While not being a garbage collector expert, the use of disposable events prevents the application from using more than a few Mbs of memory.
