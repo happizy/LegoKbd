@@ -32,6 +32,6 @@ LegoKbd uses the following libraries:
 
 If you want to contribute to LegoKbd or customize it for your needs, follow these steps:
 
-1. Clone this repository to your local machine. `git clone https://github.com/yourusername/LegoKbd.git`
+1. Clone this repository to your local machine. `git clone https://github.com/happizy/LegoKbd.git`
 2. Open the project in your preferred IDE (e.g., Visual Studio or Rider).
 3. Make your changes or additions.
