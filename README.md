@@ -13,7 +13,7 @@ While not being a garbage collector expert, the use of disposable events prevent
 
 To install LegoKbd on your system, follow these steps:
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/LegoKbd/releases) page.
+1. Download the latest release from the [Releases](https://github.com/happizy/LegoKbd/releases) page.
 2. Run the `setup.exe` file and follow the installation instructions.
 3. You must add the app to your startup folder if you want LegoKbd to always be active when booting up you computer.
 4. Once launched, LegoKbd will run silently in the background.
