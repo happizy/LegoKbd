@@ -1,0 +1,114 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="NAudio" Version="2.2.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="sounds\LegoNormalized-1.wav" />
+      <Content Include="sounds\LegoNormalized-1.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-2.wav" />
+      <Content Include="sounds\LegoNormalized-2.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-3.wav" />
+      <Content Include="sounds\LegoNormalized-3.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-4.wav" />
+      <Content Include="sounds\LegoNormalized-4.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-5.wav" />
+      <Content Include="sounds\LegoNormalized-5.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-6.wav" />
+      <Content Include="sounds\LegoNormalized-6.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-7.wav" />
+      <Content Include="sounds\LegoNormalized-7.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-8.wav" />
+      <Content Include="sounds\LegoNormalized-8.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-9.wav" />
+      <Content Include="sounds\LegoNormalized-9.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-10.wav" />
+      <Content Include="sounds\LegoNormalized-10.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-11.wav" />
+      <Content Include="sounds\LegoNormalized-11.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-12.wav" />
+      <Content Include="sounds\LegoNormalized-12.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-13.wav" />
+      <Content Include="sounds\LegoNormalized-13.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-14.wav" />
+      <Content Include="sounds\LegoNormalized-14.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-15.wav" />
+      <Content Include="sounds\LegoNormalized-15.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-16.wav" />
+      <Content Include="sounds\LegoNormalized-16.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-17.wav" />
+      <Content Include="sounds\LegoNormalized-17.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-18.wav" />
+      <Content Include="sounds\LegoNormalized-18.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-19.wav" />
+      <Content Include="sounds\LegoNormalized-19.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-20.wav" />
+      <Content Include="sounds\LegoNormalized-20.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-21.wav" />
+      <Content Include="sounds\LegoNormalized-21.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-22.wav" />
+      <Content Include="sounds\LegoNormalized-22.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-23.wav" />
+      <Content Include="sounds\LegoNormalized-23.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <None Remove="sounds\LegoNormalized-24.wav" />
+      <Content Include="sounds\LegoNormalized-24.wav">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+</Project>
